@@ -1,6 +1,6 @@
 # healthypet
 
-A new Flutter project.
+Day 2/30.
 
 ## Getting Started
 
